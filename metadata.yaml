@@ -1,0 +1,29 @@
+_repo: Solitude-With-the-Life-of-the-Author-In-Two-Parts_55898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zimmermann, Johann Georg
+    aliases:
+    - Zimmerman, John George
+    - Zimmermann, Johann Georg, Ritter von
+    - Zimmerman, Gian Giorgio
+    birthdate: 1728
+    deathdate: 1795
+    gutenberg_agent_id: '46302'
+    url: http://www.gutenberg.org/2009/agents/46302
+description: ''
+gutenberg_issued: '2017-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55898'
+  lccn: '33031519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Solitude'
+- !lcc 'BJ'
+- GITenberg
+title: "Solitude\r\nWith the Life of the Author. In Two Parts"
+url: http://www.gutenberg.org/ebooks/55898
